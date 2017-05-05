@@ -110,8 +110,8 @@ galaxy_info:
   #- system
   #- web
 
-dependencies:
-  - { name: bbaassssiiee.base_java8 }
-  - { name: bbaassssiiee.base_postgres }
+# dependencies:
+#   - { name: bbaassssiiee.base_java8 }
+#   - { name: bbaassssiiee.base_postgres }
 
 
